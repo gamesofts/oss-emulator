@@ -1,0 +1,1 @@
+./rubyc -r . -o oss-emulator bin/emulator
